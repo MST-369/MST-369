@@ -2,6 +2,7 @@
 - 👀 Interested in AI
 - 🌱 Currently learning Machine Learning, Statistics, NLP
 - ⚒️ Ongoing Project - "Stress Detection in Traffic using ML/DL".
+- 🧑‍💻 SCI Research lab team member at Kent State University 
 - 😄 Pronouns: He/Him
 
 <!---
