@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MST-369
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning, Statistics, NLP
-- ⚒️ Currently working on "Stress Detection in Traffic using ML/DL".
+- 👀 Interested in AI
+- 🌱 Currently learning Machine Learning, Statistics, NLP
+- ⚒️ Ongoing Project - "Stress Detection in Traffic using ML/DL".
 - 😄 Pronouns: He/Him
 
 <!---
